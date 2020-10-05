@@ -10,6 +10,7 @@
 	git push -u origin master
 
 ### pull
+
 	pull overwrite local file and match to remote repo
 	creat a file in remote repo
 	pull it to local repo
@@ -17,3 +18,9 @@
 	in abdulmukit98.github.io folder
 	git pull https://github.com/abdulmukit98/abdulmukit98.github.io.git
 	or sumply git pull
+
+### force pull
+	
+	in abdulmukit98.github.io folder
+	git fetch --all
+	git reset --hard origin/master
