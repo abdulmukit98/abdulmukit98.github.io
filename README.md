@@ -14,3 +14,4 @@
 
 	in abdulmukit98.github.io folder
 	git pull https://github.com/abdulmukit98/abdulmukit98.github.io.git
+	or sumply git pull
