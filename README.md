@@ -9,6 +9,8 @@
 	git commit -m "new commit"
 	git push -u origin master
 
+### pull
+	pull overwrite local file and match to remote repo
 	creat a file in remote repo
 	pull it to local repo
 
