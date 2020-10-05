@@ -21,6 +21,6 @@
 
 ### force pull
 	
-	in abdulmukit98.github.io folder
+	in abdulmukit98.github.io path
 	git fetch --all
 	git reset --hard origin/master
