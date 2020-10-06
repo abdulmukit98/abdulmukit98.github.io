@@ -39,5 +39,5 @@
 
 ### entity
 <h3>
-[html character entity](https://www.freeformatter.com/html-entities.html)<br>
+https://www.freeformatter.com/html-entities.html<br>
 </h3>
