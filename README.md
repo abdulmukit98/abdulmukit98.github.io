@@ -36,3 +36,8 @@
     <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 
+
+### entity
+<h3>
+[html character entity](https://www.freeformatter.com/html-entities.html)<br>
+</h3>
