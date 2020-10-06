@@ -37,7 +37,7 @@
     <script>hljs.initHighlightingOnLoad();</script>
 
 
-### entity
+### character entity
 <h3>
 https://www.w3schools.com/html/html_entities.asp<br>
 https://www.freeformatter.com/html-entities.html<br>
