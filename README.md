@@ -24,3 +24,15 @@
 	in abdulmukit98.github.io path
 	git fetch --all
 	git reset --hard origin/master
+
+### syntax 
+
+[lesson](https://www.youtube.com/watch?v=lusCM67ZvNM)<br>
+
+    highlight.js
+    <link rel="stylesheet"
+      href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/default.min.css">
+    
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
