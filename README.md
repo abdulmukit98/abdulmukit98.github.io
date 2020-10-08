@@ -45,3 +45,5 @@ https://www.freeformatter.com/html-entities.html<br>
 ### iframe
       <iframe width="700" height="450" src="https://www.youtube.com/embed/_E-kIxEju0M"></iframe>
 
+### tool 
+*. [color picker](https://imagecolorpicker.com/)
