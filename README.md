@@ -48,3 +48,6 @@ https://www.freeformatter.com/html-entities.html<br>
 ### tool
 * imagecolorpicker
 
+### responsive image
+
+    <img class="img-fluid" style="max-width: 100%; height: auto" src="image/after.png">
