@@ -43,10 +43,13 @@ https://www.freeformatter.com/html-entities.html<br>
 </h3>
 
 
-### iframe embeds
-        <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pVfj6mxhdMw"></iframe>
-        </div> 
+### embeds
+    need a parent element with embed-responsive
+    used for iframe, embed, video and objcec element
+    
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pVfj6mxhdMw"></iframe>
+    </div> 
 ### responsive image
     <img class="img-fluid" style="max-width: 100%; height: auto" src="image/after.png">
 
