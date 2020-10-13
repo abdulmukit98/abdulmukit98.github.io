@@ -43,8 +43,10 @@ https://www.freeformatter.com/html-entities.html<br>
 </h3>
 
 
-### iframe
-    <iframe width="700" height="450" src="https://www.youtube.com/embed/_E-kIxEju0M"></iframe>
+### iframe responsive
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pVfj6mxhdMw"></iframe>
+        </div> 
 ### responsive image
     <img class="img-fluid" style="max-width: 100%; height: auto" src="image/after.png">
 
