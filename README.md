@@ -42,12 +42,11 @@ https://www.w3schools.com/html/html_entities.asp<br>
 https://www.freeformatter.com/html-entities.html<br>
 </h3>
 
+
 ### iframe
-      <iframe width="700" height="450" src="https://www.youtube.com/embed/_E-kIxEju0M"></iframe>
+    <iframe width="700" height="450" src="https://www.youtube.com/embed/_E-kIxEju0M"></iframe>
+### responsive image
+    <img class="img-fluid" style="max-width: 100%; height: auto" src="image/after.png">
 
 ### tool
 * imagecolorpicker
-
-### responsive image
-
-    <img class="img-fluid" style="max-width: 100%; height: auto" src="image/after.png">
