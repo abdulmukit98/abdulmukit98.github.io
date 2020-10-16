@@ -36,7 +36,7 @@
     <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 
-### character entity
+### HTML Entity
 <h3>
 https://www.w3schools.com/html/html_entities.asp<br>
 https://www.freeformatter.com/html-entities.html<br>
@@ -55,3 +55,32 @@ https://www.freeformatter.com/html-entities.html<br>
 
 ### tool
 * imagecolorpicker
+
+### HTML include
+    
+    create the template.html        //this can be both elaborate or minified
+        <div class="divID">
+            Template Nav
+        </div>
+    
+    on the main file 
+        * add jquery script from https://code.jquery.com/
+    
+        * add div where the template will place
+            <div id="header">
+
+            </div>
+        
+        * add custom script file to link div with template.html
+                <script>
+                    $(function () {
+                        $('#header').load('template.html');
+                    });
+                </script>
+        
+        
+        * remember that jquery script must be initialize before custom js-script
+        * hash sign # to indicate id (#header)
+        
+[visualize](https://www.youtube.com/watch?v=m_RInqNGwmo)<br>
+    
