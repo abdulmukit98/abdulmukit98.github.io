@@ -91,3 +91,4 @@ https://www.freeformatter.com/html-entities.html<br>
         
 [visualize](https://www.youtube.com/watch?v=m_RInqNGwmo)<br>
     
+    NB Dropdown menu in included navbar need 2 refresh + double-click
