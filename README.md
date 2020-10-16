@@ -81,6 +81,13 @@ https://www.freeformatter.com/html-entities.html<br>
         
         * remember that jquery script must be initialize before custom js-script
         * hash sign # to indicate id (#header)
+            we place # before id only when we call them
+                $('#header').load('...');
+            
+            when initialize # dont use
+            <div id = "header">
+            
+            
         
 [visualize](https://www.youtube.com/watch?v=m_RInqNGwmo)<br>
     
