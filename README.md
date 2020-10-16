@@ -59,7 +59,7 @@ https://www.freeformatter.com/html-entities.html<br>
 ### HTML include
     
     create the template.html        //this can be both elaborate or minified
-        <div class="divID">
+        <div">
             Template Nav
         </div>
     
