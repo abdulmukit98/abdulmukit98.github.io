@@ -25,6 +25,9 @@
 	git fetch --all
 	git reset --hard origin/master
 
+### remember passward
+    git config credential.helper store
+
 ### syntax 
 
 [lesson](https://www.youtube.com/watch?v=lusCM67ZvNM)<br>
