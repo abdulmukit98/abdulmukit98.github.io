@@ -35,14 +35,13 @@
     highlight.js
     <link rel="stylesheet"
       href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/default.min.css">
-    
+    ---
     <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 
 * Markdown Syntax
-<h3>
 https://hello-sunil.in/github-readme-markdown-cheatsheet/
-</h3>
+
 
 ### HTML Entity
 <h3>
