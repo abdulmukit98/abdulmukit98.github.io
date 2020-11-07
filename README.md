@@ -29,7 +29,7 @@
     git config credential.helper store
 
 ### syntax 
-
+* Code Syntax
 [lesson](https://www.youtube.com/watch?v=lusCM67ZvNM)<br>
 
     highlight.js
@@ -38,6 +38,11 @@
     
     <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
+
+* Markdown Syntax
+<h3>
+https://hello-sunil.in/github-readme-markdown-cheatsheet/
+</h3>
 
 ### HTML Entity
 <h3>
@@ -56,7 +61,7 @@ https://www.freeformatter.com/html-entities.html<br>
 ### responsive image
     <img class="img-fluid" style="max-width: 100%; height: auto" src="image/after.png">
 
-### tool
+### tools
 * imagecolorpicker
 
 ### HTML include
