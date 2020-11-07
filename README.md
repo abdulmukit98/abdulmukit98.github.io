@@ -6,7 +6,7 @@
 	git clone https://github.com/abdulmukit98/abdulmukit98.github.io.git
 	git status
 	git add --all
-	git commit -m "new commit"
+	git commit -am "new commit"
 	git push -u origin master
 
 ### pull
@@ -47,7 +47,7 @@ https://www.freeformatter.com/html-entities.html<br>
 
 
 ### embeds
-    need a parent element with embed-responsive
+    need a parent element with **embed-responsive**
     used for iframe, embed, video and objcec element
     
     <div class="embed-responsive embed-responsive-16by9">
