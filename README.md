@@ -32,12 +32,14 @@
 * Code Syntax
 [lesson](https://www.youtube.com/watch?v=lusCM67ZvNM)<br>
 
-    highlight.js
-    <link rel="stylesheet"
-      href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/default.min.css">
-    ---
-    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
+        highlight.js
+        <link rel="stylesheet"
+          href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/default.min.css">
+        ---
+        ---
+        
+        <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
 
 * Markdown Syntax
 https://hello-sunil.in/github-readme-markdown-cheatsheet/
