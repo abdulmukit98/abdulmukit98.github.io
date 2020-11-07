@@ -47,7 +47,7 @@ https://www.freeformatter.com/html-entities.html<br>
 
 
 ### embeds
-    need a parent element with * embed-responsive *
+    need a parent element with "embed-responsive"
     used for iframe, embed, video and objcec element
     
     <div class="embed-responsive embed-responsive-16by9">
