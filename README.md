@@ -1,7 +1,7 @@
 ### abdulmukit98.github.io
 
 	git config --global user.name "Your name"
-	git config --global uuser.email "Your emaill"
+	git config --global user.email "Your emaill"
 	
 	git clone https://github.com/abdulmukit98/abdulmukit98.github.io.git
 	git status
