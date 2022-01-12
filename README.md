@@ -8,6 +8,9 @@
 	git add --all
 	git commit -m "new commit"
 	git push -u origin master
+	
+	for branch
+	git clone -b <branchname> <remote-repo-url>
 
 ### pull
 
