@@ -1,1 +1,6 @@
+title: My Profile
+description: >
+    My description
+    <br><br>
+    <a href="your_website">website</a>
 theme: jekyll-theme-slate
