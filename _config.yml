@@ -1,5 +1,8 @@
 theme: jekyll-theme-slate
 
+name: Project Helion
+description: Good to go
+
 lsi: false
 safe: true
 source: [your repo's top level directory]
@@ -10,6 +13,3 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-
-name: Project Helion 
-description: Good to go
