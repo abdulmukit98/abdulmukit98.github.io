@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 
-name: Project Helion
+name: Project Helion 
+title: Project Helion 
 description: Good to go
 
 lsi: false
@@ -13,3 +14,20 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: baps.bgd@gmail.com
+  facebook: BAPS.BGD
+  flickr:
+  github: baps-bgd/baps-bgd.github.io
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
