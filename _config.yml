@@ -4,6 +4,9 @@ name: Project Haleon
 title: Project Haleon 
 description: Good to go
 
+author: Abdul Mukit
+
+#defaults
 lsi: false
 safe: true
 source: [your repo's top level directory]
