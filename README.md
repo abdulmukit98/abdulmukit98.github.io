@@ -1,4 +1,5 @@
 ### abdulmukit98.github.io
+[Web View](https://abdulmukit98.github.io)
 
 	git config --global user.name "Your name"
 	git config --global user.email "Your emaill"
