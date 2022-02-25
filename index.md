@@ -8,6 +8,8 @@ BAPS is responsible for judging and problem-setting of different national and in
 <br>
 If you are willing to contribute to contents, please visit the <a href="https://github.com/baps-bgd/baps-bgd.github.io">Github Repository</a> associated with this site.
 
-1
 
+### Projects
 
+- [techshopJU 2022.2](https://abdulmukit98.github.io/techshopJU-2022.2/)
+- [HAM](https://abdulmukit98.github.io/HAM/)
