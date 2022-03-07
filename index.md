@@ -8,6 +8,7 @@ BAPS is responsible for judging and problem-setting of different national and in
 <br>
 If you are willing to contribute to contents, please visit the <a href="https://github.com/baps-bgd/baps-bgd.github.io">Github Repository</a> associated with this site.
 
+[Camp Resources](https://baps-bgd.github.io/camp/)
 
 ### Projects
 
