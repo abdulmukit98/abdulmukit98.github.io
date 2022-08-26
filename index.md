@@ -4,25 +4,6 @@ layout: default
 ---
 
 
-```
-
-  H                              
-  O A                            
-  M R L                          
-  E C A E                        
-    H T L O                        
-    I T E F N                        
-    T I M   U                       
-    E T E   C                       
-    C U N   L                       
-    T D T   E                       
-    U E S   O                       
-    R       U                      
-    E       S                      
-          
-```
-
-
 <h1>Welcome to the offical site of BAPS</h1>
 
 BAPS is responsible for judging and problem-setting of different national and international programming contests in Bangladesh. This is the official site of BAPS. This site holds the guideline for hosts to work with BAPS. Also, the site have important resources for those who wants to progress as a top level contestant.
