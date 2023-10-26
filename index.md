@@ -18,6 +18,7 @@ If you are willing to contribute to contents, please visit the <a href="https://
 - [HAM](https://abdulmukit98.github.io/HAM/)
 - [ITS](https://www.youtube.com/watch?v=DUq6b6mLZ5o)
 - [TinDog](https://abdulmukit98.github.io/tindog/)
+- [drum-kit](https://abdulmukit98.github.io/drum-kit/)
 
 
 <br><br><br><br>
