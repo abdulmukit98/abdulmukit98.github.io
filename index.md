@@ -19,6 +19,6 @@ If you are willing to contribute to contents, please visit the <a href="https://
 - [ITS](https://www.youtube.com/watch?v=DUq6b6mLZ5o)
 - [TinDog](https://abdulmukit98.github.io/tindog/)
 - [drum-kit](https://abdulmukit98.github.io/drum-kit/)
-- [Simon-game - A color patterm matching game](https://abdulmukit98.github.io/simon-game/)
+- [Simon-game - A color pattern matching game](https://abdulmukit98.github.io/simon-game/)
 
 <br><br><br><br>
