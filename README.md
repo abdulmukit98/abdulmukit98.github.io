@@ -13,6 +13,17 @@
 	for branch
 	git clone -b <branchname> <remote-repo-url>
 
+### git init
+```
+echo "# news" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/abdulmukit98/news.git
+git push -u origin main
+```
+
 ### pull
 
 	pull overwrite local file and match to remote repo
@@ -104,4 +115,6 @@ https://www.freeformatter.com/html-entities.html<br>
 [visualize](https://www.youtube.com/watch?v=m_RInqNGwmo)<br>
     
     NB Dropdown menu in included navbar need 2 refresh + double-click
+
+
  
