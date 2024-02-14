@@ -43,6 +43,22 @@ git push -u origin main
 ### remember passward
     git config credential.helper store
 
+### git branch
+to show all branch
+```
+	git branch 
+```
+
+go to a branch
+```
+	git checkout branch_name
+```
+
+create a branch
+```
+	git checkout -b branch_name
+```
+
 ### branch delete
 ```
 git branch -d old_branch
