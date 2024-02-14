@@ -43,6 +43,12 @@ git push -u origin main
 ### remember passward
     git config credential.helper store
 
+### branch delete
+```
+git branch -d old_branch
+git push origin --delete old_branch
+```
+
 ### syntax 
 * Code Syntax
 [lesson](https://www.youtube.com/watch?v=lusCM67ZvNM)<br>
