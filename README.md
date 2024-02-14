@@ -46,17 +46,17 @@ git push -u origin main
 ### git branch
 to show all branch
 ```
-	git branch 
+git branch 
 ```
 
 go to a branch
 ```
-	git checkout branch_name
+git checkout branch_name
 ```
 
 create a branch
 ```
-	git checkout -b branch_name
+git checkout -b branch_name
 ```
 
 ### branch delete
