@@ -1,4 +1,5 @@
-theme: jekyll-theme-midnight
+# jekyll-theme-midnight
+theme: Architect theme
 
 name: Project Haleon 
 title: Project Haleon 
@@ -24,16 +25,15 @@ footer:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: baps.bgd@gmail.com
-  facebook: BAPS.BGD
-  flickr:
-  github: baps-bgd/baps-bgd.github.io
+  email: abdulmukit.stu2016@juniv.edu
+  facebook: https://www.facebook.com/ahmed.julkarnine
+  github: abdulmukit98
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/abdulmukit98/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: user/abdulmukit8500
   googleplus: # anything in your profile username that comes after plus.google.com/
 
