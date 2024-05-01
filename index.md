@@ -12,9 +12,9 @@ layout: default
 - [ITS](https://www.youtube.com/watch?v=DUq6b6mLZ5o)
 
 ## Minor Projects
+
 - [TinDog](https://abdulmukit98.github.io/tindog/)
 - [drum-kit](https://abdulmukit98.github.io/drum-kit/)
 - [Simon-game - A color pattern matching game](https://abdulmukit98.github.io/simon-game/)
 
 <br><br><br><br>
-
