@@ -1,9 +1,11 @@
 # jekyll-theme-midnight
-theme: Architect theme
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
 
-name: Project Haleon 
+name: Abdul Mukit 
 title: Project Haleon 
-description: Good to go
+description: Ready
 
 author: Abdul Mukit
 
