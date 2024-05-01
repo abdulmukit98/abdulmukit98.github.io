@@ -4,8 +4,8 @@
 # remote_theme: pages-themes/hacker@v0.2.0
 # remote_theme: pages-themes/primer@v0.2.0
 # remote_theme: pages-themes/merlot@v0.2.0
-remote_theme: pages-themes/tactile@v0.2.0
-# theme: jekyll-theme-tactile
+# remote_theme: pages-themes/tactile@v0.2.0
+theme: jekyll-theme-tactile
 
 plugins:
 - jekyll-remote-theme 
@@ -16,22 +16,10 @@ description: Ready
 
 author: Abdul Mukit
 
-#defaults
-lsi: false
-safe: true
-source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
 
 footer:
   name: Abdul Mukit
-# Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
   email: abdulmukit.stu2016@juniv.edu
