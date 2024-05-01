@@ -3,10 +3,9 @@ author: Abdul Mukit
 layout: default
 ---
 
-
 [Camp Resources](https://baps-bgd.github.io/camp/)
 
-### Projects
+<h3 align="center">Projects</h3>
 
 - [techshopJU 2022.2](https://abdulmukit98.github.io/techshopJU-2022.2/)
 - [HAM](https://abdulmukit98.github.io/HAM/)
