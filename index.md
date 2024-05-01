@@ -5,7 +5,7 @@ layout: default
 
 [Camp Resources](https://baps-bgd.github.io/camp/)
 
-<h3 align="center">Projects</h3>
+### Projects
 
 - [techshopJU 2022.2](https://abdulmukit98.github.io/techshopJU-2022.2/)
 - [HAM](https://abdulmukit98.github.io/HAM/)
@@ -15,3 +15,4 @@ layout: default
 - [Simon-game - A color pattern matching game](https://abdulmukit98.github.io/simon-game/)
 
 <br><br><br><br>
+
