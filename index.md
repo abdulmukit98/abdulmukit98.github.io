@@ -18,4 +18,8 @@ layout: default
 - [drum-kit](https://abdulmukit98.github.io/drum-kit/)
 - [Simon-game - A color pattern matching game](https://abdulmukit98.github.io/simon-game/)
 
+## Resources
+
+- [SQL Queries](https://abdulmukit98.github.io/sql/)
+
 <br><br><br><br>
