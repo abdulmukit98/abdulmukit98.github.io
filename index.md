@@ -7,10 +7,10 @@ layout: default
 
 ## Projects
 
+- [Social-Media App](https://github.com/abdulmukit98/django-socialmedia/) - [(Documentation)](https://abdulmukit98.github.io/django-socialmedia/)
 - [TechshopJU v2022.2](https://abdulmukit98.github.io/techshopJU-2022.2/)
-- [HAM](https://abdulmukit98.github.io/HAM/)
-- [ITS](https://www.youtube.com/watch?v=DUq6b6mLZ5o)
-- [Get-Ambulance](https://abdulmukit98.github.io/Flutter-Ambulance/)
+- [Intelligent Traffic System](https://www.youtube.com/watch?v=DUq6b6mLZ5o)
+- [Get-Ambulance  (Flutter Based Ambulance Tracking App)](https://abdulmukit98.github.io/Flutter-Ambulance/)
 
 ## Minor Projects
 
